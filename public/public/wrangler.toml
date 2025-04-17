@@ -1,0 +1,15 @@
+name = "random-fact-generator"
+type = "javascript"
+
+[build]
+  command = "npm install"
+
+[env.production]
+  name = "random-fact-generator"
+
+[account]
+  id = "YOUR_ACCOUNT_ID"
+
+[workers_dev]
+  route = "/fact"
+  zone_id = "YOUR_ZONE_ID"
