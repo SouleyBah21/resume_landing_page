@@ -8,8 +8,8 @@ type = "javascript"
   name = "random-fact-generator"
 
 [account]
-  id = "YOUR_ACCOUNT_ID"
+  id = "508276e4bd39213f3f7baf675a29a105"
 
 [workers_dev]
   route = "/fact"
-  zone_id = "YOUR_ZONE_ID"
+  zone_id = "052b7f8515fe52b208936484abc847be"
